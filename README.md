@@ -21,6 +21,6 @@
 ## Using the token
 
 Token is saved as plain text in the `./oauth_access_token` file. Feel free to modify
-this code and use the code as you want.
+this code and use the oauth_access_token as you want.
 
 Read the docs on the actual API here https://app.drchrono.com/api-docs/#operation/appointments_update
